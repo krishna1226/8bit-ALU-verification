@@ -91,7 +91,7 @@ To analyze results:
 ---
 
 ### EPWave Result Comparison
-![EPWave ALU Verification](images/alu_waveform.png)
+![EPWave ALU Verification](alu_waveform.png)
 
 *Figure 2: DUT output vs golden reference model (expected_res)*
 
