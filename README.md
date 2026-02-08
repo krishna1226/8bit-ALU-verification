@@ -84,7 +84,7 @@ To analyze results:
 ## 🖼️ Simulation Screenshots
 
 ### Randomized ALU Operations
-![Randomized ALU Test](images/alu_random_test.png)
+![Randomized ALU Test](alu_result.png)
 
 *Figure 1: Randomized stimulus with self-checking verification*
 
